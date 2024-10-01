@@ -1,0 +1,7 @@
+post http://localhost:3003/posts
+Content-Type: application/json; charset=UTF-8
+
+{
+  "title" : "new title9",
+  "views" : 0
+}
